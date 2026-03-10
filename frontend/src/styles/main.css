@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 1rem; }
+.app main { display: flex; gap: 1rem; }
+.map { flex: 2; background:#eef; padding:1rem }
+.list { flex:1; background:#efe; padding:1rem }
